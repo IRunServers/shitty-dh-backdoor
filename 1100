@@ -1,4 +1,4 @@
-Whitlisted = {
+ModIDs = {
    [3668662721] = true,
 }
-return Whitlisted
+return ModIDs
