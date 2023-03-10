@@ -1,5 +1,6 @@
-ModIDS = {
+Whit = {
   [3668662721] = true,
+  [348881071] = true
 }
 
-return ModIDS
+return Whit
